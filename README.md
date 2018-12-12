@@ -1,2 +1,2 @@
-# XhanaeX.github.io
+# xhanaex.github.io
 Mijn website.
